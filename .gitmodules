@@ -4,3 +4,6 @@
 [submodule "problems/graph-traversal-b8f9"]
 	path = problems/graph-traversal-b8f9
 	url = https://github.com/testorganizationthu/graph-traversal-b8f9.git
+[submodule "problems/graph-traversal-b8f9"]
+	path = problems/graph-traversal-b8f9
+	url = https://github.com/testorganizationthu/graph-traversal-b8f9.git
